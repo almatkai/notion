@@ -1,0 +1,8 @@
+Tezbar Notion extension
+This native port is adapted from the Notion Raycast extension by HenriChabrand and
+contributors, maintained in the Raycast Store by Notion.
+Raycast extensions source, commit 459326f4f557692a79246dba2d013746f56d724b
+https://github.com/raycast/extensions/tree/459326f4f557692a79246dba2d013746f56d724b/extensions/notion
+Original Raycast license and the source skill's separate license are bundled
+under licenses/. The original UI assets are under resources/.
+See licenses/THIRD_PARTY.md for the locked Rust dependency notices.

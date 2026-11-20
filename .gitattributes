@@ -1,0 +1,5 @@
+* text=auto eol=lf
+upstream/** -text linguist-vendored
+resources/** -text
+licenses/** -text
+LICENSE -text
